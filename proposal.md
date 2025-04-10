@@ -15,7 +15,10 @@
 * GoTogether es una plataforma web colaborativa donde los usuarios pueden organizar o unirse a viajes grupales para compartir gastos (transporte y alojamiento). El objetivo es reducir costos de viaje conectando personas con intereses similares y destinos comunes.
 
 ### Modelo
-![imagen del modelo]()
+![image](https://github.com/user-attachments/assets/6283a64f-09f8-457f-a1eb-453ae81db704)
+
+
+https://drive.google.com/file/d/1evRcORRES3nPpAhUdvk0pCf8hHf_FCY7/view?usp=drive_link
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
