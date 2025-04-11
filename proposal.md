@@ -34,13 +34,13 @@ Regularidad:
 |CRUD simple|1. CRUD Pasajero<br>2. CRUD Categoría<br>3. CRUD Ciudad|
 |CRUD dependiente|1. CRUD Viaje {depende de} CRUD Pasajero, Categoría y Ciudad<br>2. CRUD Solicitud {depende de} CRUD Pasajero y Viaje|
 |Listado<br>+<br>detalle| 1. Listado de Viajes filtrado por Categoría, muestra nombre de Ciudad, descripción de Viaje, fecha de salida y llegada, cupo disponible y costo del viaje<br>
-|CUU/Epic|1. Reservar viaje<br>
+|CUU/Epic|1. Registrar solicitud de viaje<br>
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. CRUD Pasajero<br>2. CRUD Categorìa<br>3. CRUD Ciudad<br>4. CRUD Viaje<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
+|CUU/Epic|1. Registrar solicitud de viaje<br>2. Cargar gastos de viaje <br>3. |
 
 
 ### Alcance Adicional Voluntario
