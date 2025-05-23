@@ -32,9 +32,9 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Pasajero<br>2. CRUD Categoría<br>3. CRUD Ciudad|
-|CRUD dependiente|1. CRUD Viaje {depende de} CRUD Pasajero, Categoría y Ciudad<br>2. CRUD Solicitud {depende de} CRUD Pasajero y Viaje|
+|CRUD dependiente|1. CRUD Viaje {depende de} CRUD Pasajero, Categoría y Ciudad
 |Listado<br>+<br>detalle| 1. Listado de Viajes filtrado por Categoría, muestra nombre de Ciudad, descripción de Viaje, fecha de salida y llegada, cupo disponible y costo del viaje<br>
-|CUU/Epic|1. Registrar solicitud de viaje<br>
+|CUU/Epic|1. Registrar solicitud de viaje <br> 2. Aceptar o Rechazar solicitud (Reemplaza CRUD Dependiente)
 
 Adicionales para Aprobación
 |Req|Detalle|
