@@ -35,13 +35,13 @@ Regularidad:
 |CRUD simple|1. CRUD Pasajero<br>2. CRUD Categoría<br>3. CRUD Ciudad|
 |CRUD dependiente|1. CRUD Viaje {depende de} CRUD Pasajero, Categoría y Ciudad
 |Listado<br>+<br>detalle| 1. Listado de Viajes disponibles filtrados por Categoría, muestra nombre de Ciudad, descripción de Viaje, fecha de salida y llegada, cupo disponible y costo del viaje<br>
-|CUU/Epic|1. Registrar solicitud de viaje <br> 2. Aceptar o Rechazar solicitud (Reemplaza CRUD Dependiente) VER
+|CUU/Epic|1. Registrar solicitud de viaje <br>
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Pasajero<br>2. CRUD Viaje<br>3. CRUD Categoria<br>4. CRUD Ciudad<br>5. CRUD Solicitud<br>6. CRUD Gasto<br>|
-|CUU/Epic|1. Registrar solicitud de viaje<br>2. Cargar gastos de viaje <br> VER3. |
+|CUU/Epic|1. Registrar solicitud de viaje<br>2. Cargar gastos de viaje <br>3. Aceptar o Rechazar solicitud  |
 
 
 ### Alcance Adicional Voluntario
@@ -51,6 +51,6 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |Listados |1. Mostrar viajes disponibles que tengan como organizador un pasajero con determinada calificación o mayor <br>2. Listar ciudades más solicitadas por los usuarios|
-|CUU/Epic|1. Cancelar Viaje<br>2. VER |
+|CUU/Epic|1. Cancelar Viaje<br>|
 |Otros|1. Seguimiento del viaje|
 
